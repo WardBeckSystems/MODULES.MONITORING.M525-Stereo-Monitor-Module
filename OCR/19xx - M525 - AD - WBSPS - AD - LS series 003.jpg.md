@@ -1,5 +1,5 @@
 # 19xx - M525 - AD - WBSPS - AD - LS series 003.jpg
-Wiki page: [Advertisements](../../../PAGES/Advertisements.md)
+Wiki page: [Advertisements](../../../../PAGES/Advertisements.md)
 
 
 - **Year:** unknown (unknown)
@@ -154,7 +154,7 @@ WARD-BECK SYSTEMS LTD
 
 ```json
 {
- "file": "Modules/MONITORING/M525/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
+ "file": "Modules/MONITORING/M525/MANUALS/19xx - M525 - AD - WBSPS - AD - LS series 003.jpg",
  "sha256": "e7895f3c4096c1d267c3b601f891afc8876421b28fd663d3b047d5d2bcf09c79",
  "kind": "ad",
  "models": [

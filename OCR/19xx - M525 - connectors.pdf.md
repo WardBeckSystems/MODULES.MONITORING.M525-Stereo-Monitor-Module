@@ -1,5 +1,5 @@
 # 19xx - M525 - connectors.pdf
-Wiki page: [M525](../../../PAGES/M525.md)
+Wiki page: [M525](../../../../PAGES/M525.md)
 
 
 - **Year:** unknown (unknown)
@@ -22,7 +22,7 @@ Wiki page: [M525](../../../PAGES/M525.md)
 - **Closed boxes:** 30
 - **Words (OCR):** 22 in 22 lines: ICOJI · 100j2 · 88 · 8416-058 · LOGIC · cohTROL · SUBASSE MBL · MOUNTED · COAF · ONENT Side · ICOJS · M200
 
-Every curve, box, word and wire group: [19xx - M525 - connectors p1 (traced).json](19xx%20-%20M525%20-%20connectors%20p1%20%28traced%29.json) (the CAD file: `19xx - M525 - connectors p1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M525 - connectors p1 (traced).json](../MANUALS/19xx%20-%20M525%20-%20connectors%20p1%20(traced).json) (the CAD file: `19xx - M525 - connectors p1 (traced).dxf`).
 
 ## Full text
 
@@ -76,7 +76,7 @@ SA1L-099 LEVEL up/OowN Switch SUBASSE MBL Y
 
 ```json
 {
- "file": "Modules/MONITORING/M525/19xx - M525 - connectors.pdf",
+ "file": "Modules/MONITORING/M525/MANUALS/19xx - M525 - connectors.pdf",
  "sha256": "e56eba6426698d0961b4051c385c818692982c7ce0df148a0d688ca1c02acff0",
  "kind": "module",
  "models": [

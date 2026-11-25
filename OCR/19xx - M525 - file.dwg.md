@@ -1,5 +1,5 @@
 # 19xx - M525 - file.dwg
-Wiki page: [M525](../../../PAGES/M525.md)
+Wiki page: [M525](../../../../PAGES/M525.md)
 
 
 - **Year:** unknown (unknown)
@@ -72,7 +72,7 @@ Solid line
 
 ```json
 {
- "file": "Modules/MONITORING/M525/19xx - M525 - file.dwg",
+ "file": "Modules/MONITORING/M525/MECHANICAL/19xx - M525 - file.dwg",
  "sha256": "0adae0b17163bd04014156ef0c56fb47d2c848205d6e322af7c418e661abc143",
  "kind": "module",
  "models": [
