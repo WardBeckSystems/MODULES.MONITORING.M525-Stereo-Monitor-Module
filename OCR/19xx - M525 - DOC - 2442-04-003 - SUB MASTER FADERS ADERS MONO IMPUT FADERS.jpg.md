@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 38 in 33 lines: 4527 · 45124 · processinc HOOULES · TAAEO FOUAL · INsERT · output · JACKFIELD · 4527 · 4525 · future · Hohito 4ohiTOF · 4525
 - **Title block:** (351, 10)–(432, 49) mm: DATE · RLVEIOH · WBS WARD- BECk ByBTe · Jk · ST2442 · STEREO TELEVISKON CON · CKD · TOP VIEW LAYOUT · sc
 
-Every curve, box, word and wire group: [19xx - M525 - DOC - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS (traced).json](../MECHANICAL/19xx%20-%20M525%20-%20DOC%20-%202442-04-003%20-%20SUB%20MASTER%20FADERS%20ADERS%20MONO%20IMPUT%20FADERS%20(traced).json) (the CAD file: `19xx - M525 - DOC - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M525 - DOC - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS (traced).json](../MECHANICAL/19xx%20-%20M525%20-%20DOC%20-%202442-04-003%20-%20SUB%20MASTER%20FADERS%20ADERS%20MONO%20IMPUT%20FADERS%20%28traced%29.json) (the CAD file: `19xx - M525 - DOC - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS (traced).dxf`).
 
 ## Full text
 

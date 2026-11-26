@@ -23,7 +23,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 34 in 33 lines: WBS · 4525 · EXT · EXT · EXT 2 · EXT · AuX · Aux · Aux · AuX · H2 · Hz
 - **Title block:** (20, 0)–(222, 430) mm: WBS · 4525 · EXT · EXT · EXT 2 · EXT · AuX · Aux · Aux · AuX · H2 · Hz · SuB · SuB · SUB 2 · SUB · solo/T8 · MONO · mute · LEVEL- · ISSUE DATE · REVISION · WBS · WARD-BECK SYSTEM · DRNB DEP · M525 · E
 
-Every curve, box, word and wire group: [19xx - M525 - DOC - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX (traced).json](../MECHANICAL/19xx%20-%20M525%20-%20DOC%20-%20525-04-001%20-%20EXT%20EXT%20EXT%20EXT%20AUX%20AUX%20AUX%20(traced).json) (the CAD file: `19xx - M525 - DOC - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M525 - DOC - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX (traced).json](../MECHANICAL/19xx%20-%20M525%20-%20DOC%20-%20525-04-001%20-%20EXT%20EXT%20EXT%20EXT%20AUX%20AUX%20AUX%20%28traced%29.json) (the CAD file: `19xx - M525 - DOC - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX (traced).dxf`).
 
 ## Full text
 
