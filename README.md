@@ -1,16 +1,16 @@
-# M525 · Monitoring
+# M525 Stereo Monitor Module · Monitoring
 
 Ward-Beck Systems M525, 1988|21. Wiki page: [M525 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M525.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 0 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 15 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 16 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 10 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -24,7 +24,7 @@ Ward-Beck Systems M525, 1988|21. Wiki page: [M525 on WBSps.ca](https://wardbecks
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRWlYb3JZZl80bmM/view?resourcekey=0-iJTt91R6YMIzRCkyWaf-LA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRWlYb3JZZl80bmM&resourcekey=0-iJTt91R6YMIzRCkyWaf-LA" width="240" alt="19xx - M525 - DOC - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS.jpg"></a><br><sub>19xx - M525 - DOC - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRmxYaFlMZGphTW8/view?resourcekey=0-mVGogd4EXVeB0nRFkdF0og" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRmxYaFlMZGphTW8&resourcekey=0-mVGogd4EXVeB0nRFkdF0og" width="240" alt="19xx - M525 - DOC - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX.jpg"></a><br><sub>19xx - M525 - DOC - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRWlYb3JZZl80bmM/view?resourcekey=0-iJTt91R6YMIzRCkyWaf-LA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRWlYb3JZZl80bmM&resourcekey=0-iJTt91R6YMIzRCkyWaf-LA" width="240" alt="19xx - M525 - DOC - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS.jpg"></a><br><sub>19xx - M525 - DOC - 2442-04-003 - SUB MASTER FADERS ADERS MONO IMPUT FADERS · <a href="MECHANICAL/19xx%20-%20M525%20-%20DOC%20-%202442-04-003%20-%20SUB%20MASTER%20FADERS%20ADERS%20MONO%20IMPUT%20FADERS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRmxYaFlMZGphTW8/view?resourcekey=0-mVGogd4EXVeB0nRFkdF0og" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRmxYaFlMZGphTW8&resourcekey=0-mVGogd4EXVeB0nRFkdF0og" width="240" alt="19xx - M525 - DOC - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX.jpg"></a><br><sub>19xx - M525 - DOC - 525-04-001 - EXT EXT EXT EXT AUX AUX AUX · <a href="MECHANICAL/19xx%20-%20M525%20-%20DOC%20-%20525-04-001%20-%20EXT%20EXT%20EXT%20EXT%20AUX%20AUX%20AUX%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1988 - 525-03-009 - IDENT EXTRUSION AND COVER FOR M525A - DRN BD -88 - ENG WS-88 - ISS 1.jpg`
@@ -43,6 +43,11 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [M525.kicad_sym](KICAD/M525.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
