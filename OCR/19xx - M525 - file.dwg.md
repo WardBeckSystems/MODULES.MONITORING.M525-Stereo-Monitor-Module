@@ -1,5 +1,5 @@
 # 19xx - M525 - file.dwg
-Wiki page: [M525](../../../../PAGES/M525.md)
+Wiki page: [M525](../)
 
 
 - **Year:** unknown (unknown)

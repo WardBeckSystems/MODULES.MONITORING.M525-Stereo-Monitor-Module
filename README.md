@@ -1,6 +1,6 @@
 # M525 Stereo Monitor Module · Monitoring
 
-Ward-Beck Systems M525, 1988|21. Wiki page: [M525 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M525.html)
+Ward-Beck Systems M525, 1988|21. Wiki page: [M525 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M525-Stereo-Monitor-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 1988 - 525-03-009 - IDENT EXTRUSION AND COVER FOR M525A - DRN BD -88 - ENG WS-88 - ISS 1.jpg
-Wiki page: [M525](../../../../PAGES/M525.md)
+Wiki page: [M525](../)
 
 
 - **Year:** 1988 (title block date)
