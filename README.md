@@ -29,6 +29,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 
 Not on Google Drive yet: `1988 - 525-03-009 - IDENT EXTRUSION AND COVER FOR M525A - DRN BD -88 - ENG WS-88 - ISS 1.jpg`
 
+## 3-D model
+
+[`MECHANICAL/M525.stl`](MECHANICAL/M525.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M525)
+
+- **Size:** 71.89 × 428.78 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 28 holes and cut-outs, 6 knobs (front panel: `MECHANICAL/M525 - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.17: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M525.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Manuals and documents
 
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
